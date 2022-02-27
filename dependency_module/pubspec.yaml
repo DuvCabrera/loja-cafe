@@ -10,6 +10,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  mobx:
+  flutter_mobx:
+  flutter_modular:
+  sqflite: ^2.0.2
+ 
 
 dev_dependencies:
   flutter_test:
